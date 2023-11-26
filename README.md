@@ -26,10 +26,6 @@
  ✌️ &emsp; Enjoy to do programming and sharing code <br/><br/>
  ❤️ &emsp; Stress to writing code and learning new features<br/><br/>
 
-  <video>
-    <source scr="/assets/myVid.mp4" type="video/mp4">
-  </video>
-
 </p>
 
 <br/>
