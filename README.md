@@ -22,10 +22,11 @@
 # About me
  
 <p>
- <img align="right" width="350" src="/assets/myGif.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing code <br/><br/>
  ❤️ &emsp; Stress to writing code and learning new features<br/><br/>
+
+  <img align="center" src="/assets/myGif.gif" alt="Coding gif" />
 
 </p>
 
