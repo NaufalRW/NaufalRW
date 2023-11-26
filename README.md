@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Naufal Rayhandra Waluya</a></b>
+                <b>Naufal Rayhandra Waluya</b>
         </samp>
 </h3>
 
@@ -26,7 +26,9 @@
  ✌️ &emsp; Enjoy to do programming and sharing code <br/><br/>
  ❤️ &emsp; Stress to writing code and learning new features<br/><br/>
 
-  <img align="center" src="/assets/myGif.gif" alt="Coding gif" />
+  <video>
+    <source scr="/assets/myVid.mp4" type="video/mp4">
+  </video>
 
 </p>
 
